@@ -45,14 +45,14 @@ li {
 }
 
 .principal{
-    height: 110vh;
+    height: 120vh; /*modificar no github pra atualizar o site*/
     display: flex;
     background-color: #e8f2fc;
     margin: 0;
     width: 100%;
     padding: 8px;
     padding-bottom: 32px;
-    padding-top: 32px;
+    padding-top: 32px
 }
 
 .container {
