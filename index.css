@@ -45,7 +45,7 @@ li {
 }
 
 .principal{
-    height: 120vh; /*modificar no github pra atualizar o site*/
+    height: 115vh; /*modificar no github pra atualizar o site*/
     display: flex;
     background-color: #e8f2fc;
     margin: 0;
